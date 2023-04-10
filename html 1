@@ -6,10 +6,10 @@
         </title>
     </head>
     <body>
-        <p>Este es mi primer comentario de dos líneas</p>
-        <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
-        <div>
-            <h4>Mis tres videos de Youtube favoritos</h4>
+        <!--    Este es mi primer comentario de dos líneas
+                Aprendiendo a documentar mi código con OpenBootcamp
+            -->
+        <h4>Mis tres videos de Youtube favoritos</h4>
         <ul>
             <li>
                 <a href="https://www.youtube.com/watch?v=5rch5aqbHBQ">John Summit Live @ Factory Town Miami</a>
@@ -21,6 +21,5 @@
                 <a href="https://www.youtube.com/watch?v=R4uJAXE9rdo">James Hype at the Frozen Lotus</a>
             </li>
         </ul>
-        </div>
     </body>
 </html>
