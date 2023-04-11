@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-    <header>Multimedia</header>
+    <head>Multimedia</head>
     <body>
         <h1>Aprendiendo a utilizar imágenes</h1>
         <img src="https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg" height="465" width="300" />
