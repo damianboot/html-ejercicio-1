@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html>
-    <head>Multimedia</head>
+    <head>
+        <title>Multimedia</title>
+    </head>
     <body>
         <h1>Aprendiendo a utilizar imágenes</h1>
         <img src="https://www.minecraft.net/content/dam/games/minecraft/key-art/Games_Subnav_Minecraft-300x465.jpg" height="465" width="300" />
         <h1>Aprendiendo a utilizar los vídeos</h1>
-        <video width="480" height="640" controls autoplay loop muted>
-            <source src="https://youtu.be/e8L72UCiSTU" type="video/mp4" />
+        <video width="640" height="480" controls autoplay loop muted>
+            <source src="video.mp4" type="video/mp4" />
         </video>
         <h1>Aprendiendo a utilizar los audios</h1>
         <audio controls autoplay loop>
-            <source src="https://youtu.be/-DPomaw9Sl0" type="audio/mp3"/>
+            <source src="intro.mp3" type="audio/mp3"/>
         </audio>
     </body>
 </html>
