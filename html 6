@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ganando precisión con los selectores en CSS</title>
+    <link rel="stylesheet" href="estilos.css" />
+</head>
+<body>
+    <div>
+        <h1 id="titulo" class="encabezado">Lista de la compra</h1>
+        <ul>
+            <li>
+                <a id="elemento-1" class="elemento-1">Azucar</a>
+            </li>
+            <li>
+                <a id="elemento-2">Harina</a>
+            </li>
+            <li>
+                <a id="elemento-3">Papa</a>
+            </li>
+            <li>
+                <a id="elemento-4">Fideos</a>
+            </li>
+            <li>
+                <a id="elemento-5">Arroz</a>
+            </li>
+        </ul>
+        <ol>
+            <li>
+                <a id="elemento-1">Coto</a>
+            </li>
+            <li>
+                <a id="elemento-2">Walmart</a>
+            </li>
+            <li>
+                <a id="elemento-3">Carrefour</a>
+            </li>
+            <li>
+                <a id="elemento-4">Jumbo</a>
+            </li>
+            <li>
+                <a id="elemento-5">Spar</a>
+            </li>
+        </ol>
+    </div>
+    </body>
+</html>
+
+
+estilos.css
+
+#elemento-1 {
+    color: red;
+}
+
+.elemento-1 {
+    font-size: 20px;
+}
